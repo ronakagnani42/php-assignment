@@ -1,0 +1,39 @@
+input{
+    margin-bottom:10px;
+}
+select
+{
+    margin-bottom: 10px;
+}
+.container
+{
+
+    margin-top: 100px;
+   
+
+}
+.set
+{
+    float:left;
+    margin:50px;
+    
+}
+.toset
+{
+ 
+    float:left;
+    margin:50px;
+}
+label {
+   
+    color:black
+}
+
+.form-control
+{
+    
+}
+.convertform
+{
+    background-color: azure;
+}
